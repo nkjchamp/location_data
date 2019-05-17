@@ -36,5 +36,8 @@
       "lat": -30,
       "lng": 125
     }
-  ]
+  ],
+  "profile": {
+    "name": "locations"
+  }
 }
