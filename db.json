@@ -3,38 +3,38 @@
   [
     {
       "id": 1,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "category": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "lat": -34.397,
-      "lng": 150.644
+      "name": "William Hill US",
+      "category": "Digital, Office",
+      "lat": 40,
+      "lng": -74
     },
     {
       "id": 2,
-      "name": "qui est esse",
-      "category": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
-      "lat": -31,
-      "lng": 150
+      "name": "Monmouth Park",
+      "category": "Sportsbook, Racetrack, Park",
+      "lat": 40.309511,
+      "lng": -74.01646
     },
     {
       "id": 3,
-      "name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "category": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
-      "lat": -34.397,
-      "lng": 149  
+      "name": "Ocean Casino Atlantic City",
+      "category": "Casino, Sportsbook, Hotel",
+      "lat": 39.362792
+      "lng": -74.414798  
     },
     {
       "id": 4,
-      "name": "eum et est occaecati",
-      "category": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
-      "lat": -35,
-      "lng": 152
+      "name": "William Hill US, Field Colony",
+      "category": "Digital, Office",
+      "lat": 40.748850,
+      "lng": -74.028186
     },
     {
       "id": 5,
-      "name": "nesciunt quas odio",
-      "category": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
-      "lat": -36,
-      "lng": 149
+      "name": "William Hill US, Regus",
+      "category": "Digital Office",
+      "lat": 40.738629,
+      "lng": -74.028004
     }
   ],
   "profile": {
